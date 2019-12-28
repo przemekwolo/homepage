@@ -1,0 +1,28 @@
+body {
+    background: #fefefe;
+}
+
+.header {
+    color: rgb(13, 0, 134);
+}
+
+.sectionHeader {
+    color: #1460AA;
+}
+
+.dairyHeader {
+    color: rgb(26, 5, 77);
+    font-size: 64px;
+}
+
+.paragraph {
+    color: darkblue;
+}
+
+.pamietniczek {
+    background: #f0f0f0;
+}
+
+.heading {
+    color: red;
+}
