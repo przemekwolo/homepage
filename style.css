@@ -1,28 +1,24 @@
 body {
     background: #fefefe;
+    color: #333
+}
+
+.sectionHeader, .dairyHeader {
+    color: #1460aa;
 }
 
 .header {
-    color: rgb(13, 0, 134);
+    color: yellow;
 }
 
-.sectionHeader {
-    color: #1460AA;
-}
-
-.dairyHeader {
-    color: rgb(26, 5, 77);
-    font-size: 64px;
-}
-
-.paragraph {
-    color: darkblue;
-}
-
-.pamietniczek {
-    background: #d1d1d1;
+.thirdHeader {
+    color: #0596FF;
 }
 
 .heading {
-    color: red;
+    color: #00487c;
+}
+
+.link {
+    color: #1a936F;
 }
